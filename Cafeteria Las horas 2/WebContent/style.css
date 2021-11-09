@@ -1,0 +1,23 @@
+@charset "UTF-8";
+h1 {
+	color: #800000;
+	text-align: center;
+}
+
+#arriba {
+	color: purple;
+	text-align: left;
+}
+
+#medio {
+	color: red;
+	position: relative;
+	text-align:center;
+}
+
+#bajo {
+	color:purple;
+	position: relative;
+	text-align:right;
+	
+}
